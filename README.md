@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Abhilash-T-R/Tic-Tac-Toe-Game.git
 Navigate to the project directory:
 cd tic-tac-toe
 Open the game in your browser:
