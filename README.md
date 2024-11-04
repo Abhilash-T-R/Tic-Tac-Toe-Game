@@ -1,6 +1,11 @@
 # Tic-Tac-Toe-Game
 A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript, allowing two players to compete in the classic 3x3 grid format.
 
+# Screenshots
+![image-alt](https://github.com/Abhilash-T-R/Tic-Tac-Toe-Game/blob/c30f1b1f5c98d45e8844dfffdf278b24493cac17/2024-11-05%2000_21_58-Tic-Tac-Toe.png)
+
+![image-alt](https://github.com/Abhilash-T-R/Tic-Tac-Toe-Game/blob/c30f1b1f5c98d45e8844dfffdf278b24493cac17/2024-11-05%2000_22_57-Settings.png)
+
 Table of Contents
 Features
 Installation
